@@ -4,7 +4,7 @@
         <ul class="category">
             <li><i class="fa fa-bars" aria-hidden="true"></i>카테고리</li>
             <li>
-                <a href="#"><i class="fas fa-tshirt" aria-hidden="true"></i>패션·의류·뷰티</a>
+                <a href="/Kmarket/product/list.do?prodCate1=11"><i class="fas fa-tshirt" aria-hidden="true"></i>패션·의류·뷰티</a>
                 <ol>
 					<li><a href="/Kmarket/product/list.do?prodCate1=11&prodCate2=11">남성의류</a></li>
                     <li><a href="/Kmarket/product/list.do?prodCate1=11&prodCate2=10">여성의류</a></li>
